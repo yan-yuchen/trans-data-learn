@@ -3,3 +3,4 @@
 data-sample/ 
 resource/
 shapefile/
+__pycache__/
